@@ -1,4 +1,4 @@
-# doce-vida
+# Doce-vida
 este e um projeto academico desenvolvido em duas aulas praticas, cujo o objetivo e construir uma unica interface de recursos
 
 TITULO.
