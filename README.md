@@ -6,7 +6,7 @@ doce vida é uma loja online de doces artesanais com foco na qualidade e cuidado
 
 o projeto inial foi idealizar o site juntamente com a preparaçao de alguns rascunhos
 
-o projeto e estruturado utiizando html, css e java Script.
+o projeto é estruturado utilizando html, css e java Script.
 
 Em desenvolvimento, funcionalidades interface e interaçoes virao com atualizaçoes futuras.
 
