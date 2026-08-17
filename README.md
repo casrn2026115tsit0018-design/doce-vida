@@ -1,14 +1,14 @@
 # Doce-vida
-este e um projeto academico desenvolvido em duas aulas praticas, cujo o objetivo e construir uma unica interface de recursos
+Este e um projeto academico desenvolvido em duas aulas praticas, cujo o objetivo e construir uma única interface de recursos
 
 TITULO.
-doce vida é uma loja online de doces artesanais com foco na qualidade e cuidado com cada pedido.
+Doce Vida é uma loja online de doces artesanais com foco na qualidade e cuidado com cada pedido.
 
-o projeto inial foi idealizar o site juntamente com a preparaçao de alguns rascunhos
+O projeto inial foi idealizar o site juntamente com a preparação de alguns rascunhos
 
 o projeto é estruturado utilizando html, css e java Script.
 
-Em desenvolvimento, funcionalidades interface e interaçoes virao com atualizaçoes futuras.
+Em desenvolvimento, funcionalidades interface e interações virão com atualizações futuras.
 
 CONTRIBUINTES:
 Adriano paes: [Responsavel por   ]
